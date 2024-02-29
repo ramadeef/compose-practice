@@ -26,6 +26,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.adeef.myapplication.superheroes.ScreenSuperheroesApp
 import com.adeef.myapplication.ui.theme.MyApplicationTheme
+import com.adeef.myapplication.unscramble.ScreenUnscrambleApp
 import com.adeef.myapplication.wolf.ScreenWolfApp
 import com.adeef.myapplication.wolf.theme.WoofTheme
 
@@ -45,9 +46,10 @@ class MainActivity : ComponentActivity() {
 //                    )
                    /// ScreenAffirmationsApp()
                    // ScreenGridApp()
-                    WoofTheme{
-                        ScreenWolfApp()
-                    }
+//                    WoofTheme{
+//                        ScreenWolfApp()
+//                    }
+            ScreenUnscrambleApp()
    //                 ScreenSuperheroesApp()
   //              }
   //          }
