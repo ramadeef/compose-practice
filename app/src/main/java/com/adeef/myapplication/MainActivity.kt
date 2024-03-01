@@ -24,6 +24,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.adeef.myapplication.cupcake.CupcakeApp
 import com.adeef.myapplication.superheroes.ScreenSuperheroesApp
 import com.adeef.myapplication.ui.theme.MyApplicationTheme
 import com.adeef.myapplication.unscramble.ScreenUnscrambleApp
@@ -49,7 +50,8 @@ class MainActivity : ComponentActivity() {
 //                    WoofTheme{
 //                        ScreenWolfApp()
 //                    }
-            ScreenUnscrambleApp()
+            //ScreenUnscrambleApp()
+            CupcakeApp()
    //                 ScreenSuperheroesApp()
   //              }
   //          }
