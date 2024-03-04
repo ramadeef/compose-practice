@@ -2,13 +2,32 @@
 <project version="4">
   <component name="deploymentTargetDropDown">
     <value>
-      <entry key="TipUITests">
+      <entry key="CupcakeScreenNavigationTest">
         <State />
       </entry>
       <entry key="app">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\radee\.android\avd\Resizable_Experimental_API_33.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-03-02T21:23:58.236909Z" />
+        </State>
+      </entry>
+      <entry key="cupcakeNavHost_verifyBackNavigationNotShownOnStartOrderScreen()">
         <State />
       </entry>
-      <entry key="calculate_20_percent_tip()">
+      <entry key="cupcakeNavHost_verifyStartDestination()">
+        <State />
+      </entry>
+      <entry key="selectOptionScreen_verifyContent()">
         <State />
       </entry>
     </value>

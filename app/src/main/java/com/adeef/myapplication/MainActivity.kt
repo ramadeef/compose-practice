@@ -25,11 +25,14 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.adeef.myapplication.cupcake.CupcakeApp
+import com.adeef.myapplication.reply.ScreenReplyApp
+import com.adeef.myapplication.reply.ui.ReplyApp
 import com.adeef.myapplication.superheroes.ScreenSuperheroesApp
 import com.adeef.myapplication.ui.theme.MyApplicationTheme
 import com.adeef.myapplication.unscramble.ScreenUnscrambleApp
 import com.adeef.myapplication.wolf.ScreenWolfApp
 import com.adeef.myapplication.wolf.theme.WoofTheme
+import com.example.reply.ui.theme.ReplyTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -51,7 +54,8 @@ class MainActivity : ComponentActivity() {
 //                        ScreenWolfApp()
 //                    }
             //ScreenUnscrambleApp()
-            CupcakeApp()
+            //CupcakeApp()
+            ScreenReplyApp()
    //                 ScreenSuperheroesApp()
   //              }
   //          }
