@@ -5,15 +5,6 @@
       <entry key="Compact tests">
         <State />
       </entry>
-      <entry key="CupcakeScreenNavigationTest">
-        <State />
-      </entry>
-      <entry key="ReplyAppStateRestorationTest">
-        <State />
-      </entry>
-      <entry key="ReplyAppTest">
-        <State />
-      </entry>
       <entry key="app">
         <State>
           <targetSelectedWithDropDown>
@@ -31,9 +22,6 @@
         </State>
       </entry>
       <entry key="expandedDevice_selectedEmailEmailRetained_afterConfigChange()">
-        <State />
-      </entry>
-      <entry key="selectOptionScreen_verifyContent()">
         <State />
       </entry>
     </value>

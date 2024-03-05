@@ -25,6 +25,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.adeef.myapplication.cupcake.CupcakeApp
+import com.adeef.myapplication.racetracker.ui.RaceTrackerApp
 import com.adeef.myapplication.reply.ScreenReplyApp
 import com.adeef.myapplication.reply.ui.ReplyApp
 import com.adeef.myapplication.sports.ScreenSportsApp
@@ -57,7 +58,8 @@ class MainActivity : ComponentActivity() {
             //ScreenUnscrambleApp()
             //CupcakeApp()
             //ScreenReplyApp()
-            ScreenSportsApp()
+           // ScreenSportsApp()
+            RaceTrackerApp()
    //                 ScreenSuperheroesApp()
   //              }
   //          }
