@@ -27,6 +27,7 @@ import androidx.compose.ui.unit.sp
 import com.adeef.myapplication.cupcake.CupcakeApp
 import com.adeef.myapplication.reply.ScreenReplyApp
 import com.adeef.myapplication.reply.ui.ReplyApp
+import com.adeef.myapplication.sports.ScreenSportsApp
 import com.adeef.myapplication.superheroes.ScreenSuperheroesApp
 import com.adeef.myapplication.ui.theme.MyApplicationTheme
 import com.adeef.myapplication.unscramble.ScreenUnscrambleApp
@@ -55,7 +56,8 @@ class MainActivity : ComponentActivity() {
 //                    }
             //ScreenUnscrambleApp()
             //CupcakeApp()
-            ScreenReplyApp()
+            //ScreenReplyApp()
+            ScreenSportsApp()
    //                 ScreenSuperheroesApp()
   //              }
   //          }
