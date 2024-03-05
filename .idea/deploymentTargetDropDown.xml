@@ -2,7 +2,16 @@
 <project version="4">
   <component name="deploymentTargetDropDown">
     <value>
+      <entry key="Compact tests">
+        <State />
+      </entry>
       <entry key="CupcakeScreenNavigationTest">
+        <State />
+      </entry>
+      <entry key="ReplyAppStateRestorationTest">
+        <State />
+      </entry>
+      <entry key="ReplyAppTest">
         <State />
       </entry>
       <entry key="app">
@@ -21,10 +30,7 @@
           <timeTargetWasSelectedWithDropDown value="2024-03-02T21:23:58.236909Z" />
         </State>
       </entry>
-      <entry key="cupcakeNavHost_verifyBackNavigationNotShownOnStartOrderScreen()">
-        <State />
-      </entry>
-      <entry key="cupcakeNavHost_verifyStartDestination()">
+      <entry key="expandedDevice_selectedEmailEmailRetained_afterConfigChange()">
         <State />
       </entry>
       <entry key="selectOptionScreen_verifyContent()">
